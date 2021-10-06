@@ -1,0 +1,21 @@
+.navbar{
+    background: rgb(117,183,236);
+background: linear-gradient(90deg, rgba(117,183,236,1) 21%, rgba(169,196,56,1) 68%);
+    padding-left:200px;
+    display:block;
+    padding:30px;
+    border-radius: 8px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding:60px;
+    font-size: 30px;
+    transition: color 1.2s;
+}
+
+a:hover{
+    color:rgb(112, 78, 58);
+    text-decoration: underline;
+}
