@@ -1,5 +1,7 @@
 Created an React app which while hovering on browser displays mouse pointers coordinates using Concepts of React Hooks.
 
+Author-Omkar Narvekar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
